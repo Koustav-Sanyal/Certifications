@@ -9,5 +9,7 @@ It has been practically used by more than 600 participants, and has helped each 
                                          Tech Stack Used
                                         
 Front-End: HTML, CSS, JavaScript
+
 Back-End: Python, Django
+
 DataBase: sqlite3
